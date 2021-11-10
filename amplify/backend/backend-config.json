@@ -51,6 +51,10 @@
     "dynamo9749af4b": {
       "service": "DynamoDB",
       "providerPlugin": "awscloudformation"
+    },
+    "dynamo07feb622": {
+      "service": "DynamoDB",
+      "providerPlugin": "awscloudformation"
     }
   },
   "custom": {
