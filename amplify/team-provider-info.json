@@ -40,7 +40,10 @@
         "consoleexttestf04f3d82": {}
       },
       "function": {
-        "S3Trigger8dbd49b1": {}
+        "S3Trigger8dbd49b1": {
+          "deploymentBucketName": "amplify-consoleexttest-prod-212935-deployment",
+          "s3Key": "amplify-builds/S3Trigger8dbd49b1-724b396d493669444147-build.zip"
+        }
       }
     }
   }
