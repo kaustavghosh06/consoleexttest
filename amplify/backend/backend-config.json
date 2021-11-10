@@ -52,5 +52,11 @@
       "service": "DynamoDB",
       "providerPlugin": "awscloudformation"
     }
+  },
+  "custom": {
+    "customResource4543b08c": {
+      "service": "customCDK",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }
